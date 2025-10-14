@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+    <!-- Main page -->
+    <url>
+        <loc>https://better-aistudio.netlify.app/</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        
+        <!-- Images -->
+        <image:image>
+            <image:loc>https://better-aistudio.netlify.app/Better%20AIstudio%20promo.png</image:loc>
+            <image:title>Better AIstudio Chrome Extension Interface Preview</image:title>
+            <image:caption>Automated AIstudio Settings Configuration Tool</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://better-aistudio.netlify.app/inside%20Better%20AIstudio.png</image:loc>
+            <image:title>Better AIstudio Extension Settings Panel</image:title>
+            <image:caption>Customize AIstudio Temperature, System Instructions, and Configuration Options</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://better-aistudio.netlify.app/logo.png</image:loc>
+            <image:title>Better AIstudio Logo</image:title>
+            <image:caption>Free Chrome Extension for AIstudio Automation</image:caption>
+        </image:image>
+        
+        <!-- Video -->
+        <video:video>
+            <video:thumbnail_loc>https://better-aistudio.netlify.app/Better%20AIstudio%20promo.png</video:thumbnail_loc>
+            <video:title>Better AIstudio Chrome Extension Demo</video:title>
+            <video:description>Watch how Better AIstudio automatically applies your AIstudio settings to save time and improve productivity</video:description>
+            <video:content_loc>https://better-aistudio.netlify.app/showcase.mp4</video:content_loc>
+            <video:player_loc allow_embed="yes">https://better-aistudio.netlify.app/showcase.mp4</video:player_loc>
+            <video:duration>120</video:duration>
+            <video:view_count>1000</video:view_count>
+            <video:publication_date>2025-01-01T00:00:00+00:00</video:publication_date>
+            <video:category>Technology</video:category>
+            <video:tags>AIstudio, Chrome extension, AI automation, productivity</video:tags>
+        </video:video>
+    </url>
+    
+    <!-- 404 page -->
+    <url>
+        <loc>https://better-aistudio.com/404.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.1</priority>
+    </url>
+    
+</urlset>
