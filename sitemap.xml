@@ -3,14 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     
-    <!-- Main page -->
     <url>
         <loc>https://better-aistudio.netlify.app/</loc>
         <lastmod>2025-01-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
         
-        <!-- Images -->
         <image:image>
             <image:loc>https://better-aistudio.netlify.app/Better%20AIstudio%20promo.png</image:loc>
             <image:title>Better AIstudio Chrome Extension Interface Preview</image:title>
@@ -29,7 +27,6 @@
             <image:caption>Free Chrome Extension for AIstudio Automation</image:caption>
         </image:image>
         
-        <!-- Video -->
         <video:video>
             <video:thumbnail_loc>https://better-aistudio.netlify.app/Better%20AIstudio%20promo.png</video:thumbnail_loc>
             <video:title>Better AIstudio Chrome Extension Demo</video:title>
@@ -44,7 +41,6 @@
         </video:video>
     </url>
     
-    <!-- 404 page -->
     <url>
         <loc>https://better-aistudio.com/404.html</loc>
         <lastmod>2025-01-01</lastmod>

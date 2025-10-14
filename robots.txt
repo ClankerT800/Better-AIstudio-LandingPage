@@ -1,13 +1,10 @@
 User-agent: *
 Allow: /
 
-# Sitemap
 Sitemap: https://better-aistudio.netlify.app/sitemap.xml
 
-# Crawl-delay for respectful crawling
 Crawl-delay: 1
 
-# Allow all major search engines
 User-agent: Googlebot
 Allow: /
 
@@ -26,13 +23,11 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 
-# Disallow access to sensitive files
 Disallow: /404.html
 Disallow: /*.log$
 Disallow: /temp/
 Disallow: /cache/
 
-# Allow access to important resources
 Allow: /styles.css
 Allow: /script.js
 Allow: /*.png

@@ -22,7 +22,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // Dropdown functionality
     document.querySelectorAll('.dropdown-item').forEach(item => {
         const header = item.querySelector('.dropdown-header');
         const content = item.querySelector('.dropdown-content');
@@ -46,7 +45,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // FAQ functionality
     document.querySelectorAll('.faq-item').forEach(item => {
         const header = item.querySelector('.faq-header');
         const content = item.querySelector('.faq-content');
